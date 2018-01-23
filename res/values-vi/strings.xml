@@ -537,4 +537,12 @@
 	<!-- Brightness control -->
     <string name="status_bar_toggle_brightness">Điều chỉnh độ sáng</string>
     <string name="status_bar_toggle_brightness_summary">Điều chỉnh độ sáng bằng cách trượt trên thanh trạng thái</string>
+	
+	<!-- Smart Pixels -->
+    <string name="smart_pixels_title">Điểm ảnh thông minh</string>
+    <string name="smart_pixels_summary">Tiết kiệm pin bằng cách tắt các điểm ảnh phụ</string>
+    <string name="smart_pixels_on_power_save_title">Tự động bật khi bật trình tiết kiệm pin</string>
+    <string name="smart_pixels_on_power_save_summary">Sử với tiết kiệm pin để tăng tiết kiệm nguồn điện</string>
+    <string name="smart_pixels_percent">Vô hiệu hóa % điểm ảnh</string>
+    <string name="smart_pixels_shift">Khoảng thời gian ghi trong bảo vệ</string>
 </resources>
