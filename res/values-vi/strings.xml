@@ -544,5 +544,6 @@
     <string name="smart_pixels_on_power_save_title">Tự động bật khi bật trình tiết kiệm pin</string>
     <string name="smart_pixels_on_power_save_summary">Sử với tiết kiệm pin để tăng tiết kiệm nguồn điện</string>
     <string name="smart_pixels_percent">Vô hiệu hóa % điểm ảnh</string>
-    <string name="smart_pixels_shift">Khoảng thời gian ghi trong bảo vệ</string>
+    <string name="smart_pixels_shift_title">Bảo vệ chống bỏng</string>
+    <string name="smart_pixels_shift_summary">Ngăn chặn burn-in trên các thiết bị OLED bằng cách thay đổi pixel thường xuyên</string>
 </resources>
