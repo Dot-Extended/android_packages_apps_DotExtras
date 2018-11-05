@@ -533,4 +533,8 @@
     <string name="screen_off_animation_default">Mặc định</string>
     <string name="screen_off_animation_crt">CRT</string>
     <string name="screen_off_animation_scale">Tỉ lệ</string>
+	
+	<!-- Brightness control -->
+    <string name="status_bar_toggle_brightness">Điều chỉnh độ sáng</string>
+    <string name="status_bar_toggle_brightness_summary">Điều chỉnh độ sáng bằng cách trượt trên thanh trạng thái</string>
 </resources>
