@@ -546,4 +546,15 @@
     <string name="smart_pixels_percent">Vô hiệu hóa % điểm ảnh</string>
     <string name="smart_pixels_shift_title">Bảo vệ chống bỏng</string>
     <string name="smart_pixels_shift_summary">Ngăn chặn burn-in trên các thiết bị OLED bằng cách thay đổi pixel thường xuyên</string>
+
+    <!-- Recents panel settings -->
+    <string name="show_clear_all_recents_button_title">Xóa tất cả các nút</string>
+    <string name="show_clear_all_recents_button_summary">Hiển thị một nút xóa tất cả trong đa nhiệm</string>
+    <string name="recents_clear_all_location_title">Vị trí phím Xóa tất cả</string>
+    <string name="recents_clear_all_location_top_right">Phía trên bên phải</string>
+    <string name="recents_clear_all_location_top_left">Trên cùng bên trái</string>
+    <string name="recents_clear_all_location_top_center">Chính giữa phía trên</string>
+    <string name="recents_clear_all_location_bottom_right">Dưới cùng bên phải</string>
+    <string name="recents_clear_all_location_bottom_left">Dưới cùng bên trái</string>
+    <string name="recents_clear_all_location_bottom_center">Chính giữa phía dưới</string>
 </resources>
