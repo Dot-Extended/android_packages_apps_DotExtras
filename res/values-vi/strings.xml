@@ -41,6 +41,7 @@
     <string name="music_category">Chơi Nhạc</string>
     <string name="lockscreen_category">Màn Hình Khóa</string>
     <string name="notifications_panel_category">Bảng Thông Báo</string>
+	<string name="oreo_recents_category">Oreo Đa Nhiệm</string>
     <string name="aosp_recents_category">Màn Hình Đa Nhiệm AOSP</string>
     <string name="qs_brightness_category">Độ Sáng</string>
     <!-- Frags -->
